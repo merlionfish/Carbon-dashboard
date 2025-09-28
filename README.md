@@ -162,7 +162,7 @@ export async function fetchCountries(): Promise<string[]> {
 - Please refer to package.json for more detail due to various components.
 
 ## Directory Structures
-```text
+```bash
 /carbon-dashboard
   ├─ app/globals.css
   ├─ app/layout.tsx
