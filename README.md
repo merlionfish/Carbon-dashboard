@@ -162,6 +162,7 @@ export async function fetchCountries(): Promise<string[]> {
 - Please refer to package.json for more detail due to various components.
 
 ## Directory Structures
+```text
 /carbon-dashboard
   ├─ app/globals.css
   ├─ app/layout.tsx
@@ -181,6 +182,7 @@ export async function fetchCountries(): Promise<string[]> {
   ├─ package.json
   ├─ README.md      <-- This file.
   └─ tsconfig.json
+```
 
 ## How to Run
 1. Install dependencies:
