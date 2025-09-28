@@ -161,8 +161,8 @@ export async function fetchCountries(): Promise<string[]> {
 - Developed Windows 11 w/ node v24.2.0.
 - Please refer to package.json for more detail due to various components.
 
-## Directory Structures
-```bash
+## Directory Structures as full architectures.
+```text
 /carbon-dashboard
   ├─ app/globals.css
   ├─ app/layout.tsx
