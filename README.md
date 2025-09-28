@@ -155,6 +155,33 @@ export async function fetchCountries(): Promise<string[]> {
 - Ensured lib/api.ts matches assignment requirements
 - Dashboard connected with stub API, displaying companies, emissions, and posts
 
+### v7.1 Release GitHub public.
+- Added snapshots
+- Added GitHub public.
+- Developed Windows 11 w/ node v24.2.0.
+- Please refer to package.json for more detail due to various components.
+
+## Directory Structures
+/carbon-dashboard
+  ├─ app/globals.css
+  ├─ app/layout.tsx
+  ├─ app/page.tsx
+  ├─ components/DashboardCard.tsx
+  ├─ components/EmissionsChart.tsx
+  ├─ components/Navbar.tsx
+  ├─ components/PostList.tsx
+  ├─ components/Sidebar.tsx
+  ├─ lib/api.ts
+  ├─ lib/seed.ts
+  ├─ lib/types.ts
+  ├─ node_modules  <-- These files are does not included on GitHub.
+  ├─ public/
+  ├─ screenshots/
+  ├─ next.config.ts
+  ├─ package.json
+  ├─ README.md      <-- This file.
+  └─ tsconfig.json
+
 ## How to Run
 1. Install dependencies:
 ```bash

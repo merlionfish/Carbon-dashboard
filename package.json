@@ -1,7 +1,11 @@
 {
   "name": "carbon-dashboard",
-  "version": "0.1.0",
+  "version": "7.1.2509",
   "private": true,
+  "author": "Craig Lee aka Chang Pyo Lee",
+  "contributors": [
+    "Craig Lee"
+  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
